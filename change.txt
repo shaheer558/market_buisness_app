@@ -1,20 +1,20 @@
-- add jazzcash and visa card
-- need to ensure that customer can't see from which shops the rider is picking the products.
-- add rider rating
-- add app timing feature
-- some settings will be different for each base
-- customer can choose whether to add online wallet money or not
-- Customer can contact with rule based bot.
-- Standard delivery can be dynamic for specific bases on the choice of client.(client has to enter profit in delivery fees to make it dynamic)
-- Client can see base wise profit statistics (especially fuel cost comparison)
-- if rider does not found any product in any shop and that product is marked as red, then the customer will be notified and asked to add that product to wishlist
-- the wishlist products will be notified to the rider to check if it is available when the rider reach the shop at earliest that contain that product stock
-- After rider check the checklist, the bill should be displayed for all the checked products.
+. add jazzcash and visa card
+. need to ensure that customer can't see from which shops the rider is picking the products.
+. add rider rating
+. add app timing feature
+. some settings will be different for each base
+. customer can choose whether to add online wallet money or not
+. Customer can contact with rule based bot.
+. Standard delivery can be dynamic for specific bases on the choice of client.(client has to enter profit in delivery fees to make it dynamic)
+. Client can see base wise profit statistics (especially fuel cost comparison)
+. if rider does not found any product in any shop and that product is marked as red, then the customer will be notified and asked to add that product to wishlist
+. the wishlist products will be notified to the rider to check if it is available when the rider reach the shop at earliest that contain that product stock
+. After rider check the checklist, the bill should be displayed for all the checked products.
 //Issue of aligning product costs
-- When rider will get the products bill for the shop, the rider will have option to update the prices of the product and capture the picture of the bill. The request will go to clients, if client approve, the budget will allocated to the rider account.
-- Rider should upload the bill picture of the shop before the app pay the cost to the shop owner.
-- Rider should have option to enter easypaisa number of shop keeper. The app will transfer the cost of bill to the shop keeper and display the success message on the rider phone.
+. When rider will get the products bill for the shop, the rider will have option to update the prices of the product and capture the picture of the bill. The request will go to clients, if client approve, the budget will allocated to the rider account.
+. Rider should upload the bill picture of the shop before the app pay the cost to the shop owner.
+. Rider should have option to enter easypaisa number of shop keeper. The app will transfer the cost of bill to the shop keeper and display the success message on the rider phone.
 
-- client can add the amount of money that the app can maximum send to the rider at one time.
+. client can add the amount of money that the app can maximum send to the rider at one time.
 
 - for each shop, the price can be different for a product.
