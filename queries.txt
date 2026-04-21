@@ -1,8 +1,8 @@
 create sequence diagram:
-Now i want you to generate sequence diagram of "" use case specification: "" according to SRS document of the project.
+Now i want you to generate sequence diagram of "" use case specification: "" according to SRS document of the project. Respond in English.
 
 iteration of sequence diagram
-Your plantuml sequence diagram: "". Now perform second iteration to ensure that the sequence diagram is perfect in accordance with the SRS document and use case specification.
+Your plantuml sequence diagram: "". Now perform second iteration to ensure that the sequence diagram is perfect in accordance with the SRS document and use case specification. Respond in English.
 
 iteration of use case specification:
  Your use case specification: "". Now perform third iteration to ensure that use case specification is perfect in accordance with the SRS document
