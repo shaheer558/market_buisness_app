@@ -1,3 +1,9 @@
+iteration of state diagram:
+Now i want you to perform third iteration to ensure that no state diagram is left according to the sequence diagram and every state diagram is perfect. Also take information of SRS document from sequence diagrams as i cannot give it to you due to your prompt limit.
+
+create state machine diagram:
+Now i want you to make state diagram. I could not give you SRS due to your limit constraint therefore i want you to check all information required from sequence diagram for state diagram
+
 create sequence diagram:
 Now i want you to generate sequence diagram of "" use case specification: "" according to SRS document of the project. Respond in English.
 
