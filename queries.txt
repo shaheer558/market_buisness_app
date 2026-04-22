@@ -1,3 +1,12 @@
+create deployment diagram:
+Now i want you to make deployment diagram according to SRS and sequence diagram.
+
+iterate for component diagram:
+your deployment diagram: "". Now i want you to perform second iteration to ensure that the component diagram is completed according to the sequence diagram and the SRS: "".
+
+create component diagram:
+Now i want you to make component diagram. I could not give you SRS due to your limit constraint therefore i want you to check all information required from sequence diagram for component diagram
+
 iteration of state diagram:
 Now i want you to perform third iteration to ensure that no state diagram is left according to the sequence diagram and every state diagram is perfect. Also take information of SRS document from sequence diagrams as i cannot give it to you due to your prompt limit.
 
