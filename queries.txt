@@ -1,3 +1,6 @@
+iterate for deployment diagram:
+your deployment diagram: "". Now perform second iteration to ensure that the deployment diagram is perfect in accordance with SRS and sequence diagram.
+
 create deployment diagram:
 Now i want you to make deployment diagram according to SRS and sequence diagram.
 
