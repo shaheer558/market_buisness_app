@@ -1,3 +1,9 @@
+create system context diagram:
+Now according to SRS, sequence diagram and deployment diagram, create the System context diagram.
+
+iterate for system context diagram:
+now perform second iteration to ensure that the system context diagram is perfect according to SRS, sequence diagram and deployment diagram.
+
 iterate for deployment diagram:
 your deployment diagram: "". Now perform second iteration to ensure that the deployment diagram is perfect in accordance with SRS and sequence diagram.
 
