@@ -1,3 +1,9 @@
+iterate Data Migration / ETL Diagram:
+Now perform second iteration to ensure that the Data Migration / ETL Diagram: "" is perfect in accordance with SRS, sequence diagram, deployment diagram, microservice architecture diagram, class and ERD diagram.
+
+create Data Migration / ETL Diagram:
+Now according to SRS, sequence diagram, deployment diagram, microservice architecture diagram, class and ERD diagram, create Data Migration / ETL Diagram.
+
 iterate through CI/CD pipeline diagram:
 Now perform second iteration to ensure that the CI/CD pipeline diagram: "" is perfect in accordance with SRS, sequence diagram, deployment diagram, and microservice architecture diagram.
 
