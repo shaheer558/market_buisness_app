@@ -1,10 +1,10 @@
 create prototype:
 Now according to SRS, sequence diagram, API diagram, state diagram, component diagram, class diagram, ER
 diagram, API contract diagram, Security Architecture diagram, Monitoring and Alerting Architecture diagram, 
-Wireflow diagram, and Screen Transition diagram, create the Ascii Prototype of "SplashLogin" screen of rider under screen transition diagram. Moreover you also need to show responsiveness in case the user open the mobile app in tab or other big screen device.
+Wireflow diagram, and Screen Transition diagram, create the Ascii Prototype of "SplashLogin" screen of Client under screen transition diagram. Moreover you also need to show responsiveness in case the user open the mobile app in tab or other big screen device.
 
 iterate through prototype:
-Now perform the second iteration to ensure that the Ascii prototype of "SplashLogin" screen of "rider" under Screen transition diagram is perfect in accordance with SRS, sequence diagram, API diagram, state diagram, component diagram, class diagram, ER diagram, API contract diagram, Security Architecture diagram, Monitoring and Alerting Architecture diagram, Wireflow diagram, and Screen Transition diagram.
+Now perform the second iteration to ensure that the Ascii prototype of "SplashLogin" screen of "Client" under Screen transition diagram is perfect in accordance with SRS, sequence diagram, API diagram, state diagram, component diagram, class diagram, ER diagram, API contract diagram, Security Architecture diagram, Monitoring and Alerting Architecture diagram, Wireflow diagram, and Screen Transition diagram.
 
 iterate Data Migration / ETL Diagram:
 Now perform second iteration to ensure that the Data Migration / ETL Diagram: "" is perfect in accordance with SRS, sequence diagram, deployment diagram, microservice architecture diagram, class and ERD diagram.
